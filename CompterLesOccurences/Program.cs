@@ -30,3 +30,9 @@ Console.ReadKey();
 //IsDigit savoir s'il s'agit d'un chiffre
 // var diffrenece = names2.Except(name1) 
 
+
+/*
+* Savoir si une chaine contient un symbole espace en l'occurence
+*/
+// return str.Any(c => !char.IsLetterOrDigit(' ')); 
+
